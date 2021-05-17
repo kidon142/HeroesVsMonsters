@@ -23,7 +23,7 @@ namespace HeroesVsMonsters
         {
             get
             {
-                // il est fort min izem
+                // il est fort min izem vas y tape le avec toutes tes forces
                 return base.For + 3;
             }
         }
