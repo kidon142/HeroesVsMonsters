@@ -12,6 +12,7 @@ namespace HeroesVsMonsters
         {
             get
             {
+                //force puissance 3
                 return base.End + 3;
             }
         }
@@ -20,6 +21,7 @@ namespace HeroesVsMonsters
         {
             get
             {
+                // il est fort min izem
                 return base.For + 3;
             }
         }
