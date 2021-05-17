@@ -15,7 +15,9 @@ namespace HeroesVsMonsters
                 return base.End + 3;
             }
         }
+        // Premier commentaire Linh
 
+        // Deuxième commentaire Linh
         public override int For
         {
             get
@@ -24,4 +26,6 @@ namespace HeroesVsMonsters
             }
         }
     }
+
+    // Encore un commentaire
 }
